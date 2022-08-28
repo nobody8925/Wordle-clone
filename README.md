@@ -1,5 +1,5 @@
 # Guess Word
-This project was done as a personal project. Entire programming was done on python. This is basically a clone of the recently famous game 'Wordle'.<br><br>
+This project was done as a personal project. Entire programming was done in python. This is basically a clone of the recently famous game 'Wordle'.<br><br>
 
 ## Dependencies used
 
@@ -23,7 +23,6 @@ In order to run the website locally on your computer , follow the steps given be
 
 ```
 
-## Game page
-
-
+# Game page
  
+![Screenshot (10)](https://user-images.githubusercontent.com/75882984/187071699-77e80566-6c62-41a9-ad9d-64b7e890a6e5.png)
